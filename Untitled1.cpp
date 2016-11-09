@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 main(){
+//cpp program
 	int n,i,k,pre=0,proti=0;
 	printf("enter number\n");
 	scanf("%d",&n);
