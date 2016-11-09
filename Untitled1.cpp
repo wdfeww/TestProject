@@ -3,6 +3,7 @@
 main(){
 //cpp program
 	int n,i,k,pre=0,proti=0;
+	printf("Welcome to the vote counter app\n");
 	printf("enter number\n");
 	scanf("%d",&n);
 	for(i=16;i>0;i--){
